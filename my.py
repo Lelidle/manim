@@ -53,5 +53,7 @@ class Advantages(Scene):
                 )     
         self.wait()
         self.play(ApplyMethod(tex1.next_to, text2, RIGHT, buff=1))
+        #Assoziativgesetz
+        
         
         
